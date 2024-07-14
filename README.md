@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-Leet Code Solutions for DSA Questions primarily in Python.
+LeetCode Solutions for DSA Questions primarily in Python.
