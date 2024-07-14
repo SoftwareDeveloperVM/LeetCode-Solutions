@@ -1,2 +1,4 @@
 ## Questions Record:
-**Palindrome Number:** (30 ms runtime) Solution beats 89.82% of submissions in runtime.
+**Palindrome Number (Python):** (30 ms runtime) Solution beats 89.82% of submissions in runtime.
+**Return Length of Arguments Passed (JS)** (63 ms runtime) Solution beats 23.58% of submissions in runtime.
+**Return Length of Arguments Passed (TS)** (61 ms runtime) Solution beats 33.93% of submissions in runtime.
