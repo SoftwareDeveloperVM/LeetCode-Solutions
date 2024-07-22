@@ -8,4 +8,5 @@
 <li> Defanging an IP Address [Py] (11 ms runtime): Solution beats 74.73% of submissions in runtime.</li>
 <li> Final Value of Variable... [Py] (23 ms runtime): Solution beats 91.71% of submissions in runtime.</li>
 <li>Divisible and Non-divisible Sums... [Py] (14 ms runtime): Solution beats 84.47% of submissions in runtime.</li>
+<li>Divisible and Non-divisible Sums... [Java] (1 ms runtime): Solution beats 68.93% of submissions in runtime.</li>
 </ul>
